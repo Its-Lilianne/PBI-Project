@@ -46,3 +46,20 @@ The goal was to design a clean, interactive, and professional dashboard that pre
 ![image_alt](https://github.com/Its-Lilianne/PBI-Project/blob/13f3378f75c83be32f47f0eb0a09ad7dc0b461ef/Image4.png)
 
 
+##DAX Measures Created:
+1. Total Ad Spend = SUM('PBI_Marketing_Data'[Ad Spend (INR)])
+2. Total Impressions = SUM('PBI_Marketing_Data'[Impressions])
+3. Total Clicks = SUM('PBI_Marketing_Data'[Clicks])
+4. Total Conversions = SUM('PBI_Marketing_Data'[Conversions])
+5. Total Revenue = SUM('PBI_Marketing_Data'[Revenue (INR)])
+6. Average ROI (Dataset ROI) = AVERAGE('PBI_Marketing_Data'[ROI])
+7. Overall ROI (Double-check) = DIVIDE(
+SUM('PBI_Marketing_Data'[Revenue (INR)]) -
+SUM('PBI_Marketing_Data'[Ad Spend (INR)]),
+SUM('PBI_Marketing_Data'[Ad Spend (INR)]), 0) * 100
+8. CTR (%) = DIVIDE(
+SUM('PBI_Marketing_Data'[Clicks]),
+SUM('PBI_Marketing_Data'[Impressions]), 0) * 100
+9. Conversion Rate (%) = DIVIDE(
+SUM('PBI_Marketing_Data'[Conversions]),
+SUM('PBI_Marketing_Data'[Clicks]), 0) * 100
