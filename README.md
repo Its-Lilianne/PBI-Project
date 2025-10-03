@@ -35,3 +35,6 @@ The goal was to design a clean, interactive, and professional dashboard that pre
 1. Loaded CSV file into Power BI.
 2. Verified and corrected data types (dates, numbers, text).
 3. Checked for missing values and ensured data consistency.
+
+
+![image alt]
