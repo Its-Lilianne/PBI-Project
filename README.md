@@ -68,8 +68,26 @@ SUM('PBI_Marketing_Data'[Clicks]), 0) * 100
 
 ![image_alt](https://github.com/Its-Lilianne/PBI-Project/blob/2b9c62e8e29f3c40699c84632841a9b1e1b92ff7/Image5.png)
 
-### *New ROI Comparison Feature:*
+#### *New ROI Comparison Feature:*
 - Average ROI (Per Campaign): Shows average ROI across campaigns equally.
 - Overall ROI is weighted by the size of campaigns, usually calculated from total revenue
 and total ad spend, weighted by spend size; best for seeing total profitability. It is also
 influenced more by large campaigns, allowing for deeper performance insights.
+
+### Dashboard Visuals:
+1. KPI Cards: Total Ad Spend, Impressions, Clicks, Conversions, Revenue, Overall ROI (weighted), Average ROI (per campaign)
+2. Column Chart: Ad Spend by Marketing Channel
+3. Column Chart: Clicks vs Impressions by Channel
+4. Bar Chart: Conversion Rate by Category
+5. Column Chart: Revenue by Product
+6. Column Chart: Average ROI vs Overall ROI by Product
+7. Line Charts: Time trends for Spend, Conversions, ROI, and Clicks
+
+### Interactivity:
+**Added slicers for:**
+1. Campaign Date
+2. Product Name
+3. Product Category
+4. Marketing Channel
+
+![image_alt]()
