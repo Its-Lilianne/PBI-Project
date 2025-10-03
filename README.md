@@ -41,7 +41,7 @@ The goal was to design a clean, interactive, and professional dashboard that pre
 
 ![image_alt](https://github.com/Its-Lilianne/PBI-Project/blob/205c7e31cf6f8136e3d7818f235f1e91af8f2a65/Image2.png)
 
-![image_alt](https://github.com/Its-Lilianne/PBI-Project/blob/7c05da3c4c22b43a7836538c42e2b837bfe9f63b/Image3.png)
+![image_alt](https://github.com/Its-Lilianne/PBI-Project/blob/8049d49ef913409430177ffbf6ddee102daf5def/Image6.png)
 
 ![image_alt](https://github.com/Its-Lilianne/PBI-Project/blob/13f3378f75c83be32f47f0eb0a09ad7dc0b461ef/Image4.png)
 
