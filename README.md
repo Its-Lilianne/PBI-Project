@@ -5,9 +5,12 @@ This report documents the process and methodology used to create an interactive 
 
 ## Table of Contents:
 - [Introduction](#introduction)
-- [Objective](#objectives)
+- [Objective](#objective)
 - [Dataset Overview](#dataset-overview)
 - [Data Preparation Steps](#data-preparation-steps)
+- [DAX Measures Created](#dax-measures-created)
+- [New ROI Comparison Feature](#new-roi-comparison-feature)
+- [Dashboard Visuals](#dashboard-visuals)
 
 ## Objective:
 The goal was to design a clean, interactive, and professional dashboard that presents key marketing KPIs, allows filtering by multiple dimensions, and clearly communicates ROI differences across channels and campaigns, providing actionable insights to optimise future campaigns.
