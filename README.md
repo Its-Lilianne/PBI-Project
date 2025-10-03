@@ -12,4 +12,20 @@ This report documents the process and methodology used to create an interactive 
 - [Tools and Methodologies](#tools-and-methodologies)
 
 ## Objective:
-The goal was to design a clean, interactive, professional dashboard that presents key marketing KPIs, allows filtering by multiple dimensions, and clearly communicates ROI differences across channels and campaigns, and provides actionable insights to optimise future campaigns.
+The goal was to design a clean, interactive, and professional dashboard that presents key marketing KPIs, allows filtering by multiple dimensions, and clearly communicates ROI differences across channels and campaigns, providing actionable insights to optimise future campaigns.
+
+### Dataset Overview:
+• 1,000 campaign records
+• Columns:
+i. Campaign ID
+ii. Product Name
+iii. Category
+iv. Ad Spend (INR)
+v. Impressions
+vi. Clicks
+vii. Conversions
+viii. Revenue (INR)
+ROI
+x. Campaign Date
+xi. Marketing Channel - Covers various marketing channels such as Email
+Campaign, Instagram Ads, and Influencer Marketing
