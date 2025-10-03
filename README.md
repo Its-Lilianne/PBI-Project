@@ -37,4 +37,4 @@ The goal was to design a clean, interactive, and professional dashboard that pre
 3. Checked for missing values and ensured data consistency.
 
 
-![image alt]
+![image alt](https://github.com/Its-Lilianne/PBI-Project/blob/9d7cce81e3acfbe2511be08c976e112139e2ddd2/Image1.png)
