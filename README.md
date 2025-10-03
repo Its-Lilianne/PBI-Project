@@ -65,3 +65,11 @@ SUM('PBI_Marketing_Data'[Impressions]), 0) * 100
 SUM('PBI_Marketing_Data'[Conversions]),
 SUM('PBI_Marketing_Data'[Clicks]), 0) * 100  
 </pre>
+
+![image_alt](https://github.com/Its-Lilianne/PBI-Project/blob/2b9c62e8e29f3c40699c84632841a9b1e1b92ff7/Image5.png)
+
+### *New ROI Comparison Feature:*
+- Average ROI (Per Campaign): Shows average ROI across campaigns equally.
+- Overall ROI is weighted by the size of campaigns, usually calculated from total revenue
+and total ad spend, weighted by spend size; best for seeing total profitability. It is also
+influenced more by large campaigns, allowing for deeper performance insights.
