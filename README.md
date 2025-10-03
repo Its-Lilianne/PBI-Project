@@ -46,7 +46,8 @@ The goal was to design a clean, interactive, and professional dashboard that pre
 ![image_alt](https://github.com/Its-Lilianne/PBI-Project/blob/13f3378f75c83be32f47f0eb0a09ad7dc0b461ef/Image4.png)
 
 
-##DAX Measures Created:
+## DAX Measures Created:
+<pre>
 1. Total Ad Spend = SUM('PBI_Marketing_Data'[Ad Spend (INR)])
 2. Total Impressions = SUM('PBI_Marketing_Data'[Impressions])
 3. Total Clicks = SUM('PBI_Marketing_Data'[Clicks])
@@ -62,4 +63,5 @@ SUM('PBI_Marketing_Data'[Clicks]),
 SUM('PBI_Marketing_Data'[Impressions]), 0) * 100
 9. Conversion Rate (%) = DIVIDE(
 SUM('PBI_Marketing_Data'[Conversions]),
-SUM('PBI_Marketing_Data'[Clicks]), 0) * 100
+SUM('PBI_Marketing_Data'[Clicks]), 0) * 100  
+</pre>
