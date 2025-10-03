@@ -90,4 +90,15 @@ influenced more by large campaigns, allowing for deeper performance insights.
 3. Product Category
 4. Marketing Channel
 
-![image_alt]()
+![image_alt](https://github.com/Its-Lilianne/PBI-Project/blob/50812dae735cdbc4db7044a4e065a4523f5fb5a4/Dashboard%20.png)
+
+
+### Insights:
+- Certain channels (e.g., Influencer Marketing) yielded significantly higher ROI compared to others.
+- Some products with lower ad spend still achieved high conversion rates, indicating strong organic appeal.
+- Seasonal trends were observed, with specific months yielding better conversion and ROI performance.
+- Conversion rate differences across product categories highlight areas for optimisation.
+
+### Conclusion:
+The Power BI dashboard provides an interactive and visual representation of marketing performance. With real-time filtering and KPI tracking, marketing teams can make data-driven decisions to optimise campaigns and budget allocation.
+
